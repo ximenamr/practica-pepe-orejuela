@@ -1,0 +1,36 @@
+a{
+  text-decoration: none;
+}
+#wrapper{
+  background: purple;
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+#logo{
+  text-align: center;
+  margin: 0;
+}
+.uno{
+  width: 600px;
+}
+
+a{
+  color: #fff;
+}
+header{
+ background: green;
+}
+
+h1,h2{
+  color: black;
+}
+
+nav{
+  background: black;
+}
+
+nav a, nav a:visited {
+
+}
